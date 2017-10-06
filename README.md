@@ -1,5 +1,9 @@
-# Programming Concepts Refresher
+# Personal Programming Concepts Refresher
 
+## OOP
+### Terms
+#### Lifetime :
+> In object-oriented programming (OOP), the object lifetime (or life cycle) of an object is the time between an object's creation > and its destruction. Rules for object lifetime vary significantly between languages, in some cases between implementations of a > given language, and lifetime of a particular object may vary from one run of the program to another.
 
 ## Iterative functions
 
